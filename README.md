@@ -18,5 +18,4 @@
 
   3.PLC Pinput
   
- ![Pico](https://user-images.githubusercontent.com/36557034/212445808-c306bca3-22e3-4df5-8eeb-6c3c52414ba0.png)
  
