@@ -18,5 +18,5 @@
 
   3.PLC Pinput
   
-  https://github.com/suratin27/Pico-PLC-FX1N/blob/ea64bd8e92af7755eeb97b2c12730c82cce7af45/Pico.png
+ ![Pico](https://user-images.githubusercontent.com/36557034/212445808-c306bca3-22e3-4df5-8eeb-6c3c52414ba0.png)
  
