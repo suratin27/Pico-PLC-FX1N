@@ -18,5 +18,5 @@
 
   3.PLC Pinput
   
-  Pico.png
+  https://github.com/suratin27/Pico-PLC-FX1N/blob/ea64bd8e92af7755eeb97b2c12730c82cce7af45/Pico.png
  
