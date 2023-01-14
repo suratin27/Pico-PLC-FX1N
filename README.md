@@ -17,5 +17,5 @@
      - Modbus slave
 
   3.PLC Pinput
-  
+  ![Pico-PLC-Pinout](https://user-images.githubusercontent.com/36557034/212447019-376eaf51-2b8f-4b7e-bcb9-671f6be186f8.png)
  
