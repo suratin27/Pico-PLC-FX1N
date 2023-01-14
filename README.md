@@ -15,4 +15,7 @@
    - RS485 function
      - Modbus master
      - Modbus slave
+
+  3.PLC Pinput
+  
  
