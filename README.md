@@ -19,4 +19,7 @@
 
   3.PLC Pinput
   ![Pico-PLC-Pinout](https://user-images.githubusercontent.com/36557034/212447203-3d472552-2e27-44f0-a1a5-bcdfc7806217.png)
+
+  4.Chinese HAT
+  https://github.com/suratin27/Pico-PLC-FX1N/blob/f9ee5f900fe66b66cfc3b8f3a552068f2e1f9e2e/my%20files/Chinese_HAT.jpg
  
