@@ -15,7 +15,7 @@
    - RS485 function
      - Modbus master
      - Modbus slave
-   - Analog input 3 Input
+   - Analog input 2 Input
 
   3.PLC Pinput
   ![Pico_PLC_Pinout_2023](https://github.com/suratin27/Pico-PLC-FX1N/blob/main/my%20files/Pico_PLC_Pinout_2023.png)
