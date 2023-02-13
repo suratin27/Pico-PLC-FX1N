@@ -29,9 +29,9 @@
   4.PLC Pinput
   ![Pico_PLC_Pinout_2023](https://github.com/suratin27/Pico-PLC-FX1N/blob/main/my%20files/Pico_PLC_Pinout_2023.png)
 
-  5.Cytron Maker PI PICO
+  5.บอร์ดแนะนำ 1 - Cytron Maker PI PICO
   ![Cytron_maker](https://github.com/suratin27/Pico-PLC-FX1N/blob/main/my%20files/139036.jpg)
 
-  6.Chinese HAT
+  6.บอร์ดแนะนำ 2 - Chinese HAT
   ![Chinese-HAT](https://github.com/suratin27/Pico-PLC-FX1N/blob/f9ee5f900fe66b66cfc3b8f3a552068f2e1f9e2e/my%20files/Chinese_HAT.jpg)
  
