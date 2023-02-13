@@ -24,6 +24,9 @@
    - จากนั้น Raspberry pi pico จะ reboot 1 ครั้ง
    - จากนั้น Raspberry pi pico ของจะกลายเป็น FX1N ที่พร้อมสำหรับเชื่อมต่อกับ GXWork2 ได้ทันที
 
+   3.1 ADC0 = D1000     Analog input ช่องที่ 0 ให้อ่านค่าที่ address D1000
+   3.2 ADC1 = D1001     Analog input ช่องที่ 1 ให้อ่านค่าที่ address D1001
+
    *** ขอให้ทุกท่าน สนุกสนานกับการใช้งานครับ ***
 
   4.PLC Pinput
