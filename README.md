@@ -1,5 +1,5 @@
 # Pico-PLC-FX1N
- Orange pi Pico PLC Firmware
+ Raspberry pi Pico PLC Firmware
  Technical specifictions
   
   1.Hardware
