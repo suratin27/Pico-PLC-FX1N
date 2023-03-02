@@ -1,7 +1,13 @@
 # Pico-PLC-FX1N
  Raspberry pi Pico PLC Firmware
  Technical specifictions
-  
+
+  0.Firmware revision log
+  --- V1.02
+   - X8,X9 Read status bug fixed
+   - Modbus RTU Slave supported
+   - Modbus RTU Master supported
+    
   1.Hardware
    - Raspberry pi Pico
 
