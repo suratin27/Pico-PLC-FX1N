@@ -3,6 +3,9 @@
  Technical specifictions
 
   0.Firmware revision log
+  --- V1.04 
+   - Modbus IO supported
+   - Y0 - Y6 (Active HIGH)
   --- V1.02
    - X8,X9 Read status bug fixed
    - Modbus RTU Slave supported
