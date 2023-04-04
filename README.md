@@ -3,6 +3,8 @@
  Technical specifictions
 
   0.Firmware revision log
+  - V1.06
+    - Timer bug fixed - 2nd
   - V1.05
     - Timer bug fixed
   - V1.04 
