@@ -3,15 +3,15 @@
  Technical specifictions
 
   0.Firmware revision log
-  --- V1.05
-   - Timer bug fixed
-  --- V1.04 
-   - Modbus IO supported
-   - Y0 - Y6 (Active HIGH)
-  --- V1.02
-   - X8,X9 Read status bug fixed
-   - Modbus RTU Slave supported
-   - Modbus RTU Master supported
+  - V1.05
+    - Timer bug fixed
+  - V1.04 
+    - Modbus IO supported
+    - Y0 - Y6 (Active HIGH)
+  - V1.02
+    - X8,X9 Read status bug fixed
+    - Modbus RTU Slave supported
+    - Modbus RTU Master supported
     
   1.Hardware
    - Raspberry pi Pico
