@@ -3,6 +3,8 @@
  Technical specifictions
 
   0.Firmware revision log
+  --- V1.05
+   - Timer bug fixed
   --- V1.04 
    - Modbus IO supported
    - Y0 - Y6 (Active HIGH)
