@@ -3,6 +3,8 @@
  Technical specifictions
 
   0.Firmware revision log
+  - V1.08 
+    - Raw ADC0 ,ADC1 added to D1010 ,D1011
   - V1.07
     - MUL bug fixed
   - V1.06
