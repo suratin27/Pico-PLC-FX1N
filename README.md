@@ -54,4 +54,6 @@
 
   6.บอร์ดแนะนำ 2 - Chinese HAT
   ![Chinese-HAT](https://github.com/suratin27/Pico-PLC-FX1N/blob/f9ee5f900fe66b66cfc3b8f3a552068f2e1f9e2e/my%20files/Chinese_HAT.jpg)
+
+  7.If you want to use Pico PLC as Arduino library you can use my Arduino library name is "picoPLC".You can search "picoPLC" in Arduino library manager
  
